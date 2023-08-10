@@ -12,3 +12,15 @@ h1 {
   font-weight: 200;
   color: #0ccac4;
 }
+.robot-card {
+  background: linear-gradient(159deg, #007D7F 0%, #025D70 52.09%, #062959 100%);
+  border: 1px solid #0ccac4;
+}
+h2, p {
+  color: #0ccac4;
+}
+.input-style {
+background-color: #a5f9f6;
+border: 1px solid #025D70;
+width: 300px;
+}
